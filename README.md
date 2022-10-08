@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shaikhafzaa2
 - 👀 I’m interested in Web and App Development
-- 🌱 I’m currently Interning with Grow90 as an Mobile Application Developer Intern
-- 💞️ I’m looking to collaborate on Flutter App Dev
+- 🌱 I’ve interned at Northern Trust as an Summer SDE Intern and Grow90 as an Mobile Application Developer Intern
+- 💞️ I’m looking to collaborate on Full-Stack web and app projects
 - 📫 How to reach me shaikhafzaal2@gmail.com
 
 <!---
